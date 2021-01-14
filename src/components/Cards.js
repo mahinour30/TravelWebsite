@@ -10,7 +10,7 @@ const Cards=()=> {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='../images/1.jpg'
+              src='/images/1.jpg'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Adventure'
               path='/services'
