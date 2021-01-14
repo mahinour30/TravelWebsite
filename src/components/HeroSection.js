@@ -3,7 +3,7 @@ import '../App.css';
 import { Button } from './Button';
 import './HeroSection.css';
 
-function HeroSection() {
+const HeroSection=()=>{
   return (
     <div className='hero-container'>
       <video src='/images/RecipeApp.mp4' autoPlay loop muted />
