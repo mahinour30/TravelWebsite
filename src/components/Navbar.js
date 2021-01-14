@@ -29,9 +29,9 @@ const Navbar=()=> {
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-            TRVL
-            <i class='fab fa-typo3' />
-          </Link>
+            TRAVELA
+            <i style={{paddingLeft:20}} class="fas fa-suitcase-rolling"></i>
+            </Link>
           <div className='menu-icon' onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
           </div>
