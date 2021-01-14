@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const CardItem=(props)=>{
+    console.log("img from card" , props.src)
     return(
         <>
         <li className='cards__item '>
