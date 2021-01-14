@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+## TRAVELA
+#### react js Travel Website
+ 
+ 
+## Installation
+run npm install
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Run on Device
+run npx start
 
-## Available Scripts
+## Project info
+### A simple Travel Website
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Screens
+![1](https://user-images.githubusercontent.com/49105771/104655986-33a71280-56c7-11eb-920e-e7b07ab6e75b.PNG)
+![2](https://user-images.githubusercontent.com/49105771/104656003-3d307a80-56c7-11eb-94b6-1c12a919c1fc.PNG)
+![3](https://user-images.githubusercontent.com/49105771/104656011-43bef200-56c7-11eb-92e1-aa7c883365a9.PNG)
+![4](https://user-images.githubusercontent.com/49105771/104656023-4a4d6980-56c7-11eb-94e6-037fd24a33bc.PNG)
+![5](https://user-images.githubusercontent.com/49105771/104656034-4d485a00-56c7-11eb-966d-482d53d29666.PNG)
+![6](https://user-images.githubusercontent.com/49105771/104656064-589b8580-56c7-11eb-8cee-11921a11abc7.PNG)
+![7](https://user-images.githubusercontent.com/49105771/104656097-68b36500-56c7-11eb-99b6-da0c91c3f3c0.PNG)
+![8](https://user-images.githubusercontent.com/49105771/104656125-75d05400-56c7-11eb-8767-f173ebbfe418.PNG)
+![9](https://user-images.githubusercontent.com/49105771/104656138-7cf76200-56c7-11eb-9665-6337c5649b54.PNG)
